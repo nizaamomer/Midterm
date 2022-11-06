@@ -1,0 +1,15 @@
+C:\Users\OS\Desktop\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\OS\Desktop\Midterm\bin\Debug\Midterm.exe
+C:\Users\OS\Desktop\Midterm\bin\Debug\Midterm.pdb
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.csproj.SuggestedBindingRedirects.cache
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.Login.resources
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.Properties.Resources.resources
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.csproj.GenerateResource.cache
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.exe
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.pdb
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.adminform.resources
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.userform.resources
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.dynamic.resources
+C:\Users\OS\Desktop\Midterm\obj\Debug\Midterm.crud.resources
